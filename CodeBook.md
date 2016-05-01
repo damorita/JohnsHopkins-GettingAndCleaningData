@@ -1,4 +1,22 @@
 ### Code Book of Variables:
+
+####Subjects:
+Unique integer ID's of each test/train subjects
+
+####Activities:
+1 WALKING
+2 WALKING_UPSTAIRS
+3 WALKING_DOWNSTAIRS
+4 SITTING
+5 STANDING
+6 LAYING
+
+####Training and Test Data:
+Contains avg, std, and other results determined from subjects partaking in different activities
+
+
+
+#### Variables Created in run_analysis.r
 1. features        - contains data from features.txt
 2. activities      - contains data from activities.txt
 3. subject_test    - contains data from subject_test.txt
