@@ -12,17 +12,17 @@ run_analysis.r executes the following...
 
 
 ### Code Book of Variables:
-features        - contains data from features.txt
-activities      - contains data from activities.txt
-subject_test    - contains data from subject_test.txt
-subject_train   - contains data from subject_train.txt
-subject_data    - merged data frame of subject_train and subject_test
-X_test          - contains data from X_test.txt
-y_test          - contains data from y_test.txt
-X_train         - contains data from X_train.txt
-y_train         - contains data from y_train.txt
-x_data          - merged data frame of X_train and X_test
-y_data          - merged data frame of y_train and y_test
-ft_mean_sd      - contians row values in features where variable contains "mean" or "std"
-clean_data      - data frame with tidy data
-agg_avg         - data frame with aggregate average data using the data set from clean_data
+1. features        - contains data from features.txt
+2. activities      - contains data from activities.txt
+3. subject_test    - contains data from subject_test.txt
+4. subject_train   - contains data from subject_train.txt
+5. subject_data    - merged data frame of subject_train and subject_test
+6. X_test          - contains data from X_test.txt
+7. y_test          - contains data from y_test.txt
+8. X_train         - contains data from X_train.txt
+9. y_train         - contains data from y_train.txt
+10. x_data          - merged data frame of X_train and X_test
+11. y_data          - merged data frame of y_train and y_test
+12. ft_mean_sd      - contians row values in features where variable contains "mean" or "std"
+13. clean_data      - data frame with tidy data
+14. agg_avg         - data frame with aggregate average data using the data set from clean_data
