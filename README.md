@@ -30,4 +30,4 @@ From the data set in step 4, creates a second, independent tidy data set with th
 3. Consolidates data frame to only variables containing mean or standard deviation data
 4. Tidy the data frame to have human readable column names for activites, subjects, and variables
 5. Writes a clean_data.txt file containg the merged data to the working directory
-6. Using the previous data frame, writes a second text file agg_avg.txt with which shows an aggregate summary of all variables, subjects, and activities with their mean values.
+6. Using the previous data frame, writes a second text file avg_data.txt with which shows an aggregate summary of all variables, subjects, and activities with their mean values.
